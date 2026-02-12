@@ -10,7 +10,7 @@
     </parent>
     <groupId>se.iths.maria</groupId>
     <artifactId>pipline-demp</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>pipline-demp</name>
     <description>pipline-demp</description>
     <url/>
